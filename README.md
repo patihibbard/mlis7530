@@ -1,4 +1,4 @@
-Final project website for class, Internet Fundamentals MLIS7530
+Final project, MLIS7530
 ========
 
 I created a mock website for a fictional design company called Aloft. 
